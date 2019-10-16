@@ -42,7 +42,7 @@ public class VerifyActiLogin extends BaseTest{
 //	}
 	@Test(priority=2)
 	public void purchaseOrder() {
-		//abc
+		
 		//hp.clickPOBtn();
 		
 	}
